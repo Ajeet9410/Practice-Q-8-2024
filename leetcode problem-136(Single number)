@@ -1,0 +1,5 @@
+nums=list(map(int,input().split()))
+uique_n=0
+for i in range(len(nums)):
+        unique_n^=nums[i]
+print(unique_n)
